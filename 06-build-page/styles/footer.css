@@ -1,19 +1,18 @@
-
-
 footer {
   background-color: #181617;
 }
 
 footer .container {
-  background-image: url('assets/img/footer.jpg');
+  background-image: url("assets/img/footer.jpg");
   background-size: cover;
-  box-shadow: -150px 0 150px -100px #181617 inset, 150px 0 150px -100px #181617 inset;
+  box-shadow: -150px 0 150px -100px #181617 inset,
+    150px 0 150px -100px #181617 inset;
 }
 
 .footer-inner-container {
   display: flex;
   align-items: center;
-  justify-content: space-between;  
+  justify-content: space-between;
   min-height: 360px;
 }
 
@@ -42,19 +41,19 @@ footer .container {
 }
 
 .fb a {
-  background-image: url('assets/svg/facebook.svg');
+  background-image: url("assets/svg/facebook.svg");
 }
 
 .instagramm a {
-  background-image: url('assets/svg/instagram.svg');
+  background-image: url("assets/svg/instagram.svg");
   background-size: 26px;
 }
 
 .pinterest a {
-  background-image: url('assets/svg/pinterest.svg');
+  background-image: url("assets/svg/pinterest.svg");
 }
 
 .telegram a {
-  background-image: url('assets/svg/telegram.svg');
+  background-image: url("assets/svg/telegram.svg");
   background-size: 26px;
 }
